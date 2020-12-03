@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is André Akira, I am Front-end Developer.<br>
+I Studied Systems Development In SENAI.
+
 <!--
 **DevAndreAkira/DevAndreAkira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
