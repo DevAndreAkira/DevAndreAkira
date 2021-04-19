@@ -2,6 +2,8 @@
 
 ## I'm André Akira
 
+<img src="https://devandreakira.github.io/Portfolio/img/capa1.webp" />
+
 I'm Front-end Developer :computer:<br>
 I Studied Systems Development in SENAI :book:
 
