@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <img src="https://devandreakira.github.io/Portfolio/img/capa1.webp" />
 
