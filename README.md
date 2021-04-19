@@ -1,5 +1,5 @@
 
-<img src="https://devandreakira.github.io/Portfolio/img/capa2.webp" />
+<img src="https://devandreakira.github.io/Portfolio/img/capa1.webp" />
 
 ## I'm André Akira
 
