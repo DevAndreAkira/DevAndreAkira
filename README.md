@@ -6,6 +6,9 @@ I Studied Systems Development in SENAI :book:
 
 <img src="https://devandreakira.github.io/Portfolio/img/capa1.webp" />
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,sass,react,wordpress,php,mysql,ps,ai,figma,electron,gradle,)](https://skillicons.dev)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAndreAkira&line_height=20&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAndreAkira&langs_count=6&layout=compact&theme=tokyonight)
 
