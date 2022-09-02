@@ -4,7 +4,7 @@
 I'm Front-end Developer :computer:<br>
 I Studied Systems Development in SENAI :book:
 
-<img src="https://devandreakira.github.io/Portfolio/img/capa1.webp" />
+<!-- <img src="https://devandreakira.github.io/Portfolio/img/capa1.webp" /> -->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,sass,react,wordpress,php,mysql,ps,ai,figma,electron,gradle,)](https://skillicons.dev)
 
