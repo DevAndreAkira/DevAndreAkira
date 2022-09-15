@@ -1,4 +1,4 @@
-
+[![visits](https://github-visit-counter.herokuapp.com/DevAndreAkira/DevAndreAkira/visits.svg)](#)
 ## I'm André Akira - <a href="https://devandreakira.github.io/portfolio_devandreakira" target="_blank">Portfolio</a>
 
 I'm Front-end Developer :computer:<br>
